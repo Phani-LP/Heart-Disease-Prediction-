@@ -1,2 +1,2 @@
 # Heart-Disease-Prediction
-Used Models : SVM, Random forest, LSTM(Artificial Neural Network)
+Used Models : SVM, Random forest,TabNet(Deep Neural Networks)
